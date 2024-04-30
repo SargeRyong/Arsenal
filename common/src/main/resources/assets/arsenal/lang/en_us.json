@@ -148,31 +148,31 @@
 
     "miapi.module.pommel_socket": "Socket Pommel",
     "miapi.module.pommel_socket.name": "[translation.[material.translation]]Socket Pommel",
-    "miapi.module.pommel_socket.description": "A pommel featuring a small Slot for a magical Gemstone.",
+    "miapi.module.pommel_socket.description": "A pommel featuring a small slot for a magical Gemstone.\nReduces swing speed slightly.",
 
     "miapi.module.pommel_cross": "Cross Pommel",
     "miapi.module.pommel_cross.name": "[translation.[material.translation]]Cross Pommel",
-    "miapi.module.pommel_cross.description": "A pommel featuring a cross-shaped design for added grip and aesthetics.",
+    "miapi.module.pommel_cross.description": "A pommel featuring a cross-shaped design for added grip and aesthetics.\nOffers improved speed based on material density.",
 
     "miapi.module.pommel_round": "Round Pommel",
     "miapi.module.pommel_round.name": "[translation.[material.translation]]Round Pommel",
-    "miapi.module.pommel_round.description": "A spherical pommel that provides a balanced weight distribution and comfortable grip.",
+    "miapi.module.pommel_round.description": "A spherical pommel that provides a balanced weight distribution and comfortable grip.\nProvides a flat bonus to speed.",
 
     "miapi.module.pommel_spike": "Spike Pommel",
     "miapi.module.pommel_spike.name": "[translation.[material.translation]]Spike Pommel",
-    "miapi.module.pommel_spike.description": "A pommel featuring a spike-like protrusion for increased piercing capability.",
+    "miapi.module.pommel_spike.description": "A pommel featuring a spike-like protrusion for increased piercing capability.\nOffers additional damage based on material hardness.",
 
     "miapi.module.handle_polearm": "Polearm Handle",
     "miapi.module.handle_polearm.name": "[translation.[material.translation]]Polearm Handle",
-    "miapi.module.handle_polearm.description": "A long handle suitable for polearm weapons, providing reach and leverage.",
+    "miapi.module.handle_polearm.description": "A long handle suitable for polearm weapons.  Significantly improves reach.",
 
     "miapi.module.handle_tool": "Tool Handle",
     "miapi.module.handle_tool.name": "[translation.[material.translation]]Tool Handle",
-    "miapi.module.handle_tool.description": "A sturdy handle designed for tool-like weapons, offering durability and functionality.",
+    "miapi.module.handle_tool.description": "A sturdy handle ideal for tools, offering additional reach.",
 
     "miapi.module.handle_long": "Long Handle",
     "miapi.module.handle_long.name": "[translation.[material.translation]]Long Handle",
-    "miapi.module.handle_long.description": "A longer handle ideal for two-handed swords, providing increased reach and leverage.",
+    "miapi.module.handle_long.description": "A longer handle ideal for two-handed swords.",
 
     "miapi.module.handle_normal": "Normal Handle",
     "miapi.module.handle_normal.name": "[translation.[material.translation]]Normal Handle",
@@ -180,11 +180,11 @@
 
     "miapi.module.handle_short": "Short Handle",
     "miapi.module.handle_short.name": "[translation.[material.translation]]Short Handle",
-    "miapi.module.handle_short.description": "A shorter handle suitable for one-handed swords, providing improved maneuverability.",
+    "miapi.module.handle_short.description": "Short handle ideal for one-handed swords. Improves swing speed.",
 
     "miapi.module.handle_twin": "Twin Handle",
     "miapi.module.handle_twin.name": "[translation.[material.translation]]Twin Handle",
-    "miapi.module.handle_twin.description": "Am impractical Twin Handle for Double the Blades.\n Looks cool though.",
+    "miapi.module.handle_twin.description": "Allows additional modules at the cost of damage, efficiency, and speed.\nImpractical, but cool.",
 
     "miapi.module.axe_throwing": "Throwing Axe Head",
     "miapi.module.axe_throwing.name": "Throwing [translation.[material.translation]]Axe",
